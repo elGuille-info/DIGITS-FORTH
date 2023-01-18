@@ -3,9 +3,12 @@ Juego en Forth convertido de un ejemplo para BASIC incluido con el compilador 4t
 
 Este código es mi adaptación del juego DIGITS de escrito en BASIC por (según se indica en el juego) por CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY.
 
+<br>
+
 En realidad en GW-BASIC no funciona ese código, así que he creado una versión que sí funciona en GW-BASIC o cualquier otro BASIC/BASICA.
 El código original es digits.bas y mi versión para GW-BASIC es digitsgw.bas.
 
+<br>
 
 **NOTAS**:
 
