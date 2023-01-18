@@ -1,6 +1,18 @@
 # Digits Forth
 Juego en Forth convertido de un ejemplo para BASIC incluido con el compilador 4th
 
+## ESTE REPOSITORIO LO VOY A ELIMINAR
+
+Por favor usa este otro:
+> [Digits Forth en Forth Programming Language](https://github.com/elGuille-info/Forth-programming-language/tree/main/juegos/digits-forth)
+
+<br>
+
+### OBSOLETO
+
+<br>
+
+
 Este código es mi adaptación a FORTH (lo más cercana posible a [ANS-FORTH](http://www.forth.org/ansforth/ansforth.html)) del juego DIGITS escrito en BASIC por CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY.
 
 <br>
