@@ -1,7 +1,7 @@
 # DIGITS-FORTH
 Juego en Forth convertido de un ejemplo para BASIC incluido con el compilador 4th
 
-Este código es mi adaptación a FORTH (lo más cercana posible a [ANS-FORTH](http://www.forth.org/ansforth/ansforth.html)) del juego DIGITS escrito en BASIC por (según se indica en el juego) CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY.
+Este código es mi adaptación a FORTH (lo más cercana posible a [ANS-FORTH](http://www.forth.org/ansforth/ansforth.html)) del juego DIGITS escrito en BASIC por CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY.
 
 <br>
 
