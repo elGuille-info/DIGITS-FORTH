@@ -5,6 +5,11 @@ Este código es mi adaptación a FORTH (lo más cercana posible a [ANS-FORTH](ht
 
 <br>
 
+**NOTA**:
+> Parece que el código está sacado de este PDF con 101 juegos escritos en BASIC: [BASIC Computer Games Microcomputer Edition (1978)](https://annarchive.com/files/Basic_Computer_Games_Microcomputer_Edition.pdf)
+
+<br>
+
 En realidad en GW-BASIC no funciona ese código, así que he creado una versión que sí funciona en GW-BASIC o cualquier otro BASIC/BASICA.
 El código original es digits.bas y mi versión para GW-BASIC es digitsgw.bas.
 
